@@ -9,3 +9,4 @@ The anomalies list can be found here: ![Anomalies List Link](https://github.com/
 
 # Light Sources Pages
 The current light sources can be seen here:
+![Lunarlight](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/lunarlight.md)
