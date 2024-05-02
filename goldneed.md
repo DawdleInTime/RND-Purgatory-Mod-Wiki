@@ -8,4 +8,15 @@ Goldneed seems to be a happy face with large teeth, having wide eyes and ripped 
 He also has a static-like look and will always smile, Even in it's jumpscare sequence.
 
 # Mechanic
-He behaves like 
+He behaves like ![The Envied One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/envied_one.md) but he will rebound slowly, Looking for gold and not wanting to cause harm.
+- Despite that, He thinks the player is gold due to his yellow blurry vision. And will try to catch the Player to eat gold.
+
+He will also wander through rooms making a silent sound, Pay attention whenever you hear a gurling noise, Because it is him.
+- Before V107, ![The Envied One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/envied_one.md) would make burgling noises instead.
+
+# Trivia
+
+Before V106, It used to be more based on wrath than greed, He later switched roles with __Wrath Outsidæ__
+
+He used to have no sound before V106, And have a windy noise before V107.
+- ![The Envied One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/envied_one.md) later took his windy sound in V107+
