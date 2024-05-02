@@ -19,7 +19,7 @@ __The Envied One__ can be mimicked by __Slothy One__
 - Althought the clone becomes more blue to resemble it's creator and makes more visual effects.
 
 __The Envied One__ used to make a burgling noise before Version 107, But many Players found it dificult to listen to.
-- Now, __Goldneed__ uses it's audio.
+- Now, ![Goldneed](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/goldneed.md) uses it's audio.
 
 # Gallery
 ![214 Sem Título_20240417213100](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/e7d72197-5af8-431f-ad40-2e57e28517e1)
