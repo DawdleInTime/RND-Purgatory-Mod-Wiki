@@ -15,7 +15,7 @@ Meanwhile he dashes through the rooms, He will make windy sounds and whisper som
 # Trivia
 __The Envied One__ used to have no appearance until Version 103, Where he got an early more corrupted look. And until Version 106 (Current Sprite)
 
-__The Envied One__ can be mimicked by __Slothy One__
+__The Envied One__ can be mimicked by ![Slothy One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/slothyone.md)
 - Althought the clone becomes more blue to resemble it's creator and makes more visual effects.
 
 __The Envied One__ used to make a burgling noise before Version 107, But many Players found it dificult to listen to.
