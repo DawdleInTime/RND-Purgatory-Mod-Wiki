@@ -18,5 +18,7 @@ He will also wander through rooms making a silent sound, Pay attention whenever 
 
 Before V106, It used to be more based on wrath than greed, He later switched roles with ![Wrath Outsidæ](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/wrathoutsidae.md)
 
+![Desired Skull](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/desiredskull.md) can stop __Goldneed__'s sound.
+
 He used to have no sound before V106, And have a windy noise before V107.
 - ![The Envied One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/envied_one.md) later took his windy sound in V107+
