@@ -12,3 +12,7 @@ The anomalies list can be found here: ![Anomalies List Link](https://github.com/
 The current light sources can be seen here:
 
 ![Lunarlight](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/lunarlight.md)
+
+# Latest Mod Key
+The Latest mod key for R&D:Purgatory can be here:
+![Mediafire Link](https://www.mediafire.com/file/x4h1t9eofuk9rj5/R%2526D_Purgatory_Mod_V107.txt/file)
