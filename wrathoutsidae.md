@@ -9,7 +9,7 @@ He's depicted as an anomaly that is always angry, although he is raging inside, 
 
 # Mechanics
 
-__Wrath Outsidæ__ completely steals __Goldneed__'s strategy but moves way silenter.
+__Wrath Outsidæ__ completely steals ![Goldneed](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/goldneed.md)'s strategy but moves way silenter.
 - He will also completely enrage the player in the moment it catches up into its mind, making the player scream in pain into death.
 
 __Wrath Outsidæ__ can alter the player's emotions, but it will change your vision meanwhile his attack.
@@ -21,7 +21,7 @@ __The Envied One__ used to be part of __Wrath Outsidæ__'s ripped eye before V10
 __Wrath Outsidæ__ is considered the hardest entity in the mod.
 
 __Wrath Outsidæ__ used to appear at A-120, before it was later changed.
-- __Goldneed__ now appears at A-120 instead.
+- ![Goldneed](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/goldneed.md) now appears at A-120 instead.
 
 # Gallery
 
