@@ -16,7 +16,7 @@ __Wrath Outsidæ__ can alter the player's emotions, but it will change your visi
 
 # Trivia
 
-__The Envied One__ used to be part of __Wrath Outsidæ__'s ripped eye before V107+
+![The Envied One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/envied_one.md) used to be part of __Wrath Outsidæ__'s ripped eye before V107+
 
 __Wrath Outsidæ__ is considered the hardest entity in the mod.
 
