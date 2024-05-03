@@ -4,6 +4,7 @@ You can check out the resident anomalies in the Purgatory in here!
 
 
 # D
+- ![Devil](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/satanas.md)
 - Darkened Pride
 - ![Desired Skull](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/desiredskull.md)
 # E
@@ -12,7 +13,6 @@ You can check out the resident anomalies in the Purgatory in here!
 - ![Gluttonysis](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/gluttonysis.md)
 - ![Goldneed](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/goldneed.md)
 # S
-- Satanás
 - ![Slothy One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/slothyone.md)
 # W
 - ![Wrath Outsidæ](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/wrathoutsidae.md)
