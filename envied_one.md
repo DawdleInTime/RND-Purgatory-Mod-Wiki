@@ -13,17 +13,17 @@ __The Envied One__ will appear back in room A-001 and will speed all the way to 
 Meanwhile he dashes through the rooms, He will make windy sounds and whisper sometimes to the Player's ear.
 
 # Trivia
-__The Envied One__ used to have no appearance until Version 103, Where he got an early more corrupted look. And until Version 106 (Current Sprite)
+__The Envied One__ used to have no appearance until version 103, Where he got an early more corrupted look. And until Version 106 (Current Sprite)
 
 __The Envied One__ can be mimicked by ![Slothy One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/slothyone.md)
 - Althought the clone becomes more blue to resemble it's creator and makes more visual effects.
 
-__The Envied One__ used to make a burgling noise before Version 107, But many Players found it dificult to listen to.
+__The Envied One__ used to make a burgling noise before version 107, But many Players found it dificult to listen to.
 - Now, ![Goldneed](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/goldneed.md) uses it's audio.
 
 # Gallery
 ![214 Sem Título_20240417213100](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/e7d72197-5af8-431f-ad40-2e57e28517e1)
-(A-60^'s Old appearance, Before Version 103 and after Version 101)
+(A-60^'s Old appearance, Before Version 103 and after version 101)
 
 ![239 Sem Título_20240502060313](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/e716c3fa-8656-480b-a746-8673ce5f6c16)
 (A-60^ Featured in the mod's thumbnail)
