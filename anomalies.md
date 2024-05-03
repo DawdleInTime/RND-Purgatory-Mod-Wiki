@@ -15,4 +15,4 @@ You can check out the resident anomalies in the Purgatory in here!
 - Satanás
 - Slothy One
 # W
-- Wrath Outsidæ
+- ![Wrath Outsidæ](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/wrathoutsidae.md)
