@@ -5,7 +5,7 @@ You can check out the resident anomalies in the Purgatory in here!
 
 # D
 - ![Devil](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/satanas.md)
-- Darkened Pride
+- ![Darkened Pride](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/darkenedpride.md)
 - ![Desired Skull](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/desiredskull.md)
 # E
 - ![Envied One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/envied_one.md)
