@@ -13,6 +13,6 @@ You can check out the resident anomalies in the Purgatory in here!
 - ![Goldneed](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/goldneed.md)
 # S
 - Satanás
-- Slothy One
+- ![Slothy One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/slothyone.md)
 # W
 - ![Wrath Outsidæ](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/wrathoutsidae.md)
