@@ -16,7 +16,7 @@ __Wrath Outsidæ__ can alter the player's emotions, but it will change your visi
 
 # Trivia
 
-![The Envied One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/envied_one.md) used to be part of __Wrath Outsidæ__'s ripped eye before V107+
+![The Envied One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/envied_one.md) used to be part of __Wrath Outsidæ__'s ripped eye before version 107+
 
 __Wrath Outsidæ__ is considered the hardest entity in the mod.
 
@@ -26,7 +26,7 @@ __Wrath Outsidæ__ used to appear at A-120, before it was later changed.
 # Gallery
 
 ![214 Sem Título_20240426173734](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/618058d9-8cf8-4921-b1dd-4f420e43fc13)
-A-200^'s first retake on a redesign (V107) (Scrapped)
+A-200^'s first retake on a redesign (version 1.0.7) (Scrapped)
 ![214 Sem Título_20240417213053](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/5cb7f407-1d5f-461a-9561-7fc149c7f42b)
 A-200^'s oldest design
 ![214 Sem Título_20240417213100](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/eb66b11f-6bf6-4bf9-baae-de4d4a64be0c)
