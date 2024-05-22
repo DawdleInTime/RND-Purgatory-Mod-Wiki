@@ -12,6 +12,11 @@ The anomalies list can be found here: ![Anomalies List Link](https://github.com/
 The current light sources can be seen here:
 
 ![Lunarlight](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/lunarlight.md)
+Ocean Flashlight
 
 # Latest Mod Key
-The Latest mod key for R&D:Purgatory can be here:(https://www.mediafire.com/file/x4h1t9eofuk9rj5/R%2526D_Purgatory_Mod_V107.txt/file)
+The Latest mod key for R&D:Purgatory can be here:(https://www.mediafire.com/file/r2u0f2jjcw60p07/R&D+Purgatory+Mod+V108.txt/file)
+
+Having problems downloading? Check here!
+
+[R&D Purgatory Mod V108.txt](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/files/15396682/R.D.Purgatory.Mod.V108.txt)
