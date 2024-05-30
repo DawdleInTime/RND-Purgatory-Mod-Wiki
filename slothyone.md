@@ -1,4 +1,4 @@
-# Slothy One
+# Slothy One (A-40^)
 ![242 Sem Título_20240502203610](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/c120e7e3-6572-4267-afb1-7743fd436a01)
 (Retake on the slothy one's sprite)
 
