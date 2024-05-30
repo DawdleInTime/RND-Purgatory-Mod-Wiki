@@ -11,8 +11,7 @@ He also has a static-like look and will always smile, Even in it's jumpscare seq
 He behaves like ![The Envied One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/envied_one.md) but he will rebound slowly, Looking for gold and not wanting to cause harm.
 - Despite that, He thinks the player is gold due to his yellow blurry vision. And will try to catch the Player to eat gold.
 
-He will also wander through rooms making a silent sound, Pay attention whenever you hear a gurling noise, Because it is him.
-- Before version 107, ![The Envied One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/envied_one.md) would make burgling noises instead.
+He will also wander through rooms making a irritated gasp sound, Pay attention whenever you hear a "creek" noise, Because it is him.
 
 # Trivia
 
