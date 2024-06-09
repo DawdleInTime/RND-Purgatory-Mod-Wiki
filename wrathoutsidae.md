@@ -1,4 +1,4 @@
-# Wrath Outsidæ (A-200^)
+# Wrath Outsidæ (A[200])
 ![he angy](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/a198eeea-0f05-4c72-91df-3e3ec222387e)
 (Wrath Outsidæ's Sprite)
 
@@ -26,8 +26,8 @@ __Wrath Outsidæ__ used to appear at A-120, before it was later changed.
 # Gallery
 
 ![214 Sem Título_20240426173734](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/618058d9-8cf8-4921-b1dd-4f420e43fc13)
-A-200^'s first retake on a redesign (version 1.0.7) (Scrapped)
+A[200]'s first retake on a redesign (version 1.0.7) (Scrapped)
 ![214 Sem Título_20240417213053](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/5cb7f407-1d5f-461a-9561-7fc149c7f42b)
-A-200^'s oldest design
+A[200]'s oldest design
 ![214 Sem Título_20240417213100](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/eb66b11f-6bf6-4bf9-baae-de4d4a64be0c)
-A-200^'s oldest design's reference eyeball to A-60^'s oldest design
+A[200]'s oldest design's reference eyeball to A[60]'s oldest design
