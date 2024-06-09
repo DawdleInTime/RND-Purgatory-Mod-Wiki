@@ -18,6 +18,8 @@ __Desired Skull__ uses a stolen model, One of the developers of rooms & doors sa
 
 __Desired Skull__ is one of the most annoying anomalies.
 
+The Creator stated that: "If there is a another section, __Desired Skull__ would've definetely be in it."
+
 # Gallery
 ![214 Sem Título_20240419201459](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/4b57f2ac-ed16-481f-9efc-9af4dca3fc4e)
 An old recreation of __Desired Skull__.
