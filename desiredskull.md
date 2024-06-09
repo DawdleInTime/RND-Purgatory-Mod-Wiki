@@ -1,4 +1,4 @@
-# Desired Skull (a[100])
+# Desired Skull (A[100])
 ![242 Sem Título_20240503025737](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/49204b74-4a5b-491e-bc95-d2ede5dcb3a8)
 (An picture of Desired Skull)
 
