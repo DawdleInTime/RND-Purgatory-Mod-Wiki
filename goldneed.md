@@ -1,4 +1,4 @@
-# Goldneed (A-120^)
+# Goldneed (A[120])
 ![214 Sem Título_20240426173727](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/e46afcd6-193c-4daa-b03b-7c3a9d8b2b43)
 (Goldneed's Ingame Sprite)
 
