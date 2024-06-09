@@ -1,4 +1,4 @@
-# Darkened Pride
+# Darkened Pride (A[50])
 ![242 Sem Título_20240503025731](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/assets/168727225/d040fc68-6667-4879-98d6-e11f6d10489b)
 (photo of darkened pride)
 
