@@ -8,12 +8,10 @@ You can check out the resident anomalies in the Purgatory in here!
 ## C
 - ![Chesire](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/desiredskull.md)
 ## E
-- ![Envied One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/envied_one.md)
+- ![The Exiled One](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/envied_one.md)
 ## G
-- ![Gluttonysis](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/gluttonysis.md)
+- ![Glutonesis](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/gluttonysis.md)
 - ![Goldneed](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/goldneed.md)
 ## S
 - ![Selfish](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/darkenedpride.md)
-- ![Slother](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/slothyone.md)
-## O
-- ![Outsidæ](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/wrathoutsidae.md)
+- ![The Gimmicker](https://github.com/DawdleInTime/RND-Purgatory-Mod-Wiki/blob/main/slothyone.md)
